@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+miniredis:
+  capacity: 1000
+  expiry-sweep-interval-ms: 1000
